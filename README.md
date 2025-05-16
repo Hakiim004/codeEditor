@@ -21,5 +21,5 @@ Ce projet est une application graphique développée en **Python** avec **PySide
 1. Clonez ce dépôt ou copiez le fichier source :
 
 ```bash
-git clone <URL_DU_DEPOT>
-cd <nom_du_projet>
+git clone https://github.com/Hakiim004/codeEditor.git
+cd  codeEditor
